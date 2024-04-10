@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Lebedev_Litvin\bin\Debug\net7.0\Lebedev_Litvin.exe
+C:\Users\student\Desktop\Lebedev_Litvin\bin\Debug\net7.0\Lebedev_Litvin.deps.json
+C:\Users\student\Desktop\Lebedev_Litvin\bin\Debug\net7.0\Lebedev_Litvin.runtimeconfig.json
+C:\Users\student\Desktop\Lebedev_Litvin\bin\Debug\net7.0\Lebedev_Litvin.dll
+C:\Users\student\Desktop\Lebedev_Litvin\bin\Debug\net7.0\Lebedev_Litvin.pdb
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.AssemblyInfo.cs
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.dll
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\refint\Lebedev_Litvin.dll
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.pdb
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\Lebedev_Litvin.genruntimeconfig.cache
+C:\Users\student\Desktop\Lebedev_Litvin\obj\Debug\net7.0\ref\Lebedev_Litvin.dll
